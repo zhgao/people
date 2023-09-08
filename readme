@@ -1,0 +1,4 @@
+1, mysql installation
+    MacOS 13.4.1
+      brew install mysql
+
